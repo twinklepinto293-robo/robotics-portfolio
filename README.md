@@ -1,4 +1,4 @@
-# Robotics Portfolio
+# Engineering Portfolio
 I am a first year Computer Engineering student passionate about robotics and technology,prepping for summer internships.
 This repository documents my journey from beginner to advanced in robotics.
 
